@@ -1,2 +1,2 @@
 # bp-dleam
-BP-DLEAM: Bankruptcy Prediction using Deep Learning and Enesemble AlgorithMs
+BP-DLEAM: <em>B</em>ankruptcy Prediction using Deep Learning and Enesemble AlgorithMs
