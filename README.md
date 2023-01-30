@@ -1,2 +1,2 @@
 # bp-dleam
-BP-DLEAM: <em>B</em>ankruptcy Prediction using Deep Learning and Enesemble AlgorithMs
+BP-DLEAM: <strong>B</strong>ankruptcy Prediction using Deep Learning and Enesemble AlgorithMs
